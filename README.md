@@ -1,6 +1,6 @@
 # Algebraic Population Geometry for Concept-Based Explanations in Melanoma Diagnosis
 
-This package reproduces the experiments, figures and table of the manuscript. We separate the work into two independent stages. The first stage trains the concept bottleneck models and runs every experiment, writing all results to csv files. The second stage reads those csv files and draws the figures and the table without computing any new result.
+This package reproduces the experiments, figures and tables of the paper "Algebraic Population Geometry for Concept-Based Explanations in Melanoma Diagnosis". We separate the work into two independent stages. The first stage trains the concept bottleneck models and runs every experiment, writing all results to csv files. The second stage reads those csv files and draws the figures and the table without computing any new results.
 
 ## Structure
 
@@ -38,16 +38,16 @@ The saved outputs of the notebook document our run. The folder `results/` holds 
 
 Kawahara, J., Daneshvar, S., Argenziano, G., & Hamarneh, G. (2019). Seven-point checklist and skin lesion classification using multitask multimodal neural nets. *IEEE Journal of Biomedical and Health Informatics*, 23(2), 538–546.
 
-## Stage 2. Figures and table
+## Stage 2. Figures and tables
 
-The scripts in `visualization/` only read the csv files in `results/`. They filter, sort and arrange the stored values but compute no statistic. The seeds and the model of the first and third experiments are read from `results/model_selection.csv`.
+The scripts in `visualization/` only read the csv files in `results/`. They filter, sort and arrange the stored values but compute no statistics. The seeds and the model of the first and third experiments are read from `results/model_selection.csv`.
 
 ```
 pip install -r visualization/requirements.txt
 python visualization/make_all.py
 ```
 
-The notebook `visualization/make_all.ipynb` runs the same command and then shows every figure inline, so it also serves as a quick view of the results without running anything. The figures are written as PDF files to `visualization/figures/` and the table as a LaTeX fragment to `visualization/tables/`. Every script also runs on its own, for instance `python visualization/fig3_pairs.py`. The command `python visualization/tables.py --tex manuscript.tex` additionally checks the table, the split counts and the figure files against a LaTeX source.
+The notebook `visualization/make_all.ipynb` runs the same command and then shows every figure inline, so it also serves as a quick view of the results without running anything. The figures are written as PDF files to `visualization/figures/` and the table as a LaTeX fragment to `visualization/tables/`. Every script also runs on its own, for instance, `python visualization/fig3_pairs.py`. The command `python visualization/tables.py --tex manuscript.tex` additionally checks the table, the split counts and the figure files against a LaTeX source.
 
 | Manuscript | Script | Output | Input files in `results/` |
 |---|---|---|---|

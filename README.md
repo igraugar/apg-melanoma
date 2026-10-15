@@ -1,6 +1,6 @@
 # Algebraic Population Geometry for Concept-Based Explanations in Melanoma Diagnosis
 
-This package reproduces the experiments, figures and tables of the paper. We separate the work into two independent stages. The first stage trains the concept bottleneck models and runs every experiment, writing all results to csv files. The second stage reads those csv files and draws the figures and the table without computing any new results.
+This package reproduces the experiments, figures and tables of the paper. We separate the work into two independent stages. The first stage trains the concept bottleneck models and runs every experiment, writing all results to csv files. The second stage reads those csv files and draws the figures and the table without computing any new results. 
 
 ## Structure
 

@@ -1,0 +1,7 @@
+seed,population,delta,frozen,r_y,r_p,order_certified,images_needed_for_whole_order,walls_certified,edges_certified,partial_order_pairs,pca_gaps_certified
+64,melanoma,0.01,False,1.4860682257954767,0.2634813880710548,False,1010401,8,0,8,0
+64,melanoma,0.05,True,1.3350547138659792,0.2399757061923982,False,815482,10,0,10,0
+64,melanoma,0.1,False,1.264472598748268,0.2291106045499564,False,731535,10,0,10,0
+64,non_melanoma,0.01,False,0.8396598810553748,0.14887253971776584,False,103100,11,0,11,0
+64,non_melanoma,0.05,True,0.7543340627225041,0.13559133384325534,False,83211,13,0,13,0
+64,non_melanoma,0.1,False,0.7144536794698103,0.12945232232656417,False,74645,13,0,13,0

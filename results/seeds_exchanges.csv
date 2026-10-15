@@ -1,0 +1,11 @@
+population,seed,selected,top3_distance_pairs,pc1_variance_share,pc1_top_loadings,pc1_gap_certified,pc1_top_state,pc1_top_state_direction,pc1_top_state_holm_p
+melanoma,42,False,BWV-VS 14.6%; ST-VS 9.1%; PN-VS 7.4%,0.5537712643102778,BWV-VS +0.73; PN-BWV -0.35; RS-BWV +0.28; RS-VS -0.27,False,blue-whitish veil = absent,higher,2.451013668476267e-10
+melanoma,64,True,PIG-BWV 13.4%; ST-PIG 11.6%; PN-PIG 9.8%,0.43908376549765016,PIG-BWV +0.54; ST-BWV -0.41; DG-BWV -0.39; RS-BWV +0.38,False,blue-whitish veil = absent,higher,3.046998792271862e-11
+melanoma,128,False,PN-BWV 14.2%; PN-ST 9.1%; DG-BWV 8.4%,0.4537547260530584,RS-VS +0.50; BWV-VS -0.49; RS-BWV -0.33; DG-BWV +0.28,False,blue-whitish veil = absent,lower,1.7700924338983117e-11
+melanoma,256,False,BWV-VS 14.4%; RS-BWV 8.7%; PN-RS 7.4%,0.2573693620942459,RS-VS +0.61; PIG-RS -0.45; PN-PIG +0.35; PN-BWV -0.29,False,regression structures = absent,higher,8.487517249098142e-10
+melanoma,512,False,RS-BWV 11.3%; PN-RS 11.2%; PIG-RS 9.6%,0.3693020895588809,DG-BWV +0.55; BWV-VS -0.38; ST-BWV -0.35; RS-BWV -0.32,False,blue-whitish veil = absent,lower,1.3468566829201508e-10
+non_melanoma,42,False,DG-VS 13.1%; BWV-VS 10.3%; RS-VS 10.0%,0.2812265016563804,BWV-VS +0.88; PN-VS -0.26; PIG-VS -0.21; PN-BWV +0.20,False,streaks = regular,lower,7.523779520030775e-11
+non_melanoma,64,True,PIG-VS 10.0%; ST-VS 9.2%; PN-PIG 8.1%,0.24545452091418132,BWV-VS +0.49; ST-PIG -0.46; ST-VS +0.37; PN-VS -0.29,False,streaks = regular,lower,1.315373956827681e-14
+non_melanoma,128,False,BWV-VS 9.9%; PIG-VS 8.6%; ST-DG 7.4%,0.29951363644769724,PIG-VS +0.69; PN-VS -0.47; PIG-BWV -0.28; PN-RS +0.24,False,pigment network = typical,higher,3.709072544830365e-12
+non_melanoma,256,False,RS-VS 20.3%; ST-BWV 9.3%; ST-VS 9.2%,0.23498812433056304,BWV-VS +0.63; RS-VS -0.49; ST-DG +0.26; DG-BWV -0.21,False,pigmentation = absent,lower,9.370271608238183e-23
+non_melanoma,512,False,PIG-BWV 11.2%; PN-DG 8.6%; ST-BWV 8.5%,0.3032511813148857,PN-BWV +0.55; PN-PIG -0.40; PN-DG -0.36; PN-VS +0.35,False,pigment network = typical,lower,8.113880591993195e-33

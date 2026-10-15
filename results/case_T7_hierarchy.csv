@@ -1,0 +1,121 @@
+seed,population,tau,frozen,edges,n_tiers,tiers,crossing_share
+64,melanoma,0.02,False,18,1,"DG,ST,PN,BWV,VS,RS,PIG",
+64,melanoma,0.04,False,18,1,"DG,ST,PN,BWV,VS,RS,PIG",
+64,melanoma,0.06,False,18,1,"DG,ST,PN,BWV,VS,RS,PIG",
+64,melanoma,0.08,False,15,1,"DG,ST,PN,BWV,VS,RS,PIG",
+64,melanoma,0.1,False,12,1,"DG,ST,PN,BWV,VS,RS,PIG",
+64,melanoma,0.12,False,11,1,"DG,ST,PN,BWV,VS,RS,PIG",
+64,melanoma,0.14,False,11,1,"DG,ST,PN,BWV,VS,RS,PIG",
+64,melanoma,0.16,False,7,1,"DG,ST,PN,BWV,VS,RS,PIG",
+64,melanoma,0.18,False,5,2,"DG,ST,PN | BWV,VS,RS,PIG",0.23964088487398275
+64,melanoma,0.2,True,3,4,"DG | ST,PN | BWV | VS,RS,PIG",0.2554445556955111
+64,melanoma,0.25,False,0,7,DG | ST | PN | BWV | VS | RS | PIG,0.2923329278590332
+64,melanoma,0.3,False,0,7,DG | ST | PN | BWV | VS | RS | PIG,0.2923329278590332
+64,non_melanoma,0.02,False,21,1,"PIG,ST,BWV,DG,RS,PN,VS",
+64,non_melanoma,0.04,False,21,1,"PIG,ST,BWV,DG,RS,PN,VS",
+64,non_melanoma,0.06,False,18,1,"PIG,ST,BWV,DG,RS,PN,VS",
+64,non_melanoma,0.08,False,15,1,"PIG,ST,BWV,DG,RS,PN,VS",
+64,non_melanoma,0.1,False,13,1,"PIG,ST,BWV,DG,RS,PN,VS",
+64,non_melanoma,0.12,False,11,1,"PIG,ST,BWV,DG,RS,PN,VS",
+64,non_melanoma,0.14,False,9,1,"PIG,ST,BWV,DG,RS,PN,VS",
+64,non_melanoma,0.16,False,6,2,"PIG,ST,BWV,DG | RS,PN,VS",0.2522610772446839
+64,non_melanoma,0.18,True,4,3,"PIG,ST,BWV | DG | RS,PN,VS",0.2883008997063671
+64,non_melanoma,0.2,False,2,5,"PIG,ST | BWV | DG | RS | PN,VS",0.31542962341180275
+64,non_melanoma,0.25,False,0,7,PIG | ST | BWV | DG | RS | PN | VS,0.3282981640185638
+64,non_melanoma,0.3,False,0,7,PIG | ST | BWV | DG | RS | PN | VS,0.3282981640185638
+42,melanoma,0.02,False,19,1,"DG,PN,ST,BWV,PIG,RS,VS",
+42,melanoma,0.04,False,17,1,"DG,PN,ST,BWV,PIG,RS,VS",
+42,melanoma,0.06,False,16,1,"DG,PN,ST,BWV,PIG,RS,VS",
+42,melanoma,0.08,False,15,1,"DG,PN,ST,BWV,PIG,RS,VS",
+42,melanoma,0.1,False,11,1,"DG,PN,ST,BWV,PIG,RS,VS",
+42,melanoma,0.12,False,11,1,"DG,PN,ST,BWV,PIG,RS,VS",
+42,melanoma,0.14,False,9,1,"DG,PN,ST,BWV,PIG,RS,VS",
+42,melanoma,0.16,False,8,1,"DG,PN,ST,BWV,PIG,RS,VS",
+42,melanoma,0.18,False,5,2,"DG,PN | ST,BWV,PIG,RS,VS",0.18958840661153314
+42,melanoma,0.2,True,2,5,"DG,PN | ST | BWV | PIG | RS,VS",0.2649610237667622
+42,melanoma,0.25,False,1,6,"DG | PN | ST | BWV | PIG | RS,VS",0.26514868279169196
+42,melanoma,0.3,False,0,7,DG | PN | ST | BWV | PIG | RS | VS,0.27619926680789864
+42,non_melanoma,0.02,False,21,1,"BWV,DG,RS,ST,PIG,PN,VS",
+42,non_melanoma,0.04,False,20,1,"BWV,DG,RS,ST,PIG,PN,VS",
+42,non_melanoma,0.06,False,17,1,"BWV,DG,RS,ST,PIG,PN,VS",
+42,non_melanoma,0.08,False,17,1,"BWV,DG,RS,ST,PIG,PN,VS",
+42,non_melanoma,0.1,False,15,1,"BWV,DG,RS,ST,PIG,PN,VS",
+42,non_melanoma,0.12,False,13,1,"BWV,DG,RS,ST,PIG,PN,VS",
+42,non_melanoma,0.14,False,11,1,"BWV,DG,RS,ST,PIG,PN,VS",
+42,non_melanoma,0.16,False,7,2,"BWV | DG,RS,ST,PIG,PN,VS",0.16624858195478395
+42,non_melanoma,0.18,True,2,5,"BWV | DG,RS | ST | PIG | PN,VS",0.32783331260366727
+42,non_melanoma,0.2,False,1,6,"BWV | DG | RS | ST | PIG | PN,VS",0.3354409771069685
+42,non_melanoma,0.25,False,0,7,BWV | DG | RS | ST | PIG | PN | VS,0.34125976188097384
+42,non_melanoma,0.3,False,0,7,BWV | DG | RS | ST | PIG | PN | VS,0.34125976188097384
+128,melanoma,0.02,False,20,1,"PN,DG,PIG,ST,BWV,RS,VS",
+128,melanoma,0.04,False,18,1,"PN,DG,PIG,ST,BWV,RS,VS",
+128,melanoma,0.06,False,16,1,"PN,DG,PIG,ST,BWV,RS,VS",
+128,melanoma,0.08,False,16,1,"PN,DG,PIG,ST,BWV,RS,VS",
+128,melanoma,0.1,False,15,1,"PN,DG,PIG,ST,BWV,RS,VS",
+128,melanoma,0.12,False,14,1,"PN,DG,PIG,ST,BWV,RS,VS",
+128,melanoma,0.14,False,9,2,"PN,DG,PIG,ST | BWV,RS,VS",0.23737741255066605
+128,melanoma,0.16,False,6,2,"PN,DG,PIG,ST | BWV,RS,VS",0.23737741255066605
+128,melanoma,0.18,False,5,3,"PN,DG,PIG | ST | BWV,RS,VS",0.2684303465220379
+128,melanoma,0.2,True,2,5,"PN,DG | PIG | ST | BWV | RS,VS",0.2921961959799086
+128,melanoma,0.25,False,1,6,"PN | DG | PIG | ST | BWV | RS,VS",0.3018329042043242
+128,melanoma,0.3,False,1,6,"PN | DG | PIG | ST | BWV | RS,VS",0.3018329042043242
+128,non_melanoma,0.02,False,19,1,"DG,RS,ST,BWV,PIG,PN,VS",
+128,non_melanoma,0.04,False,16,1,"DG,RS,ST,BWV,PIG,PN,VS",
+128,non_melanoma,0.06,False,14,1,"DG,RS,ST,BWV,PIG,PN,VS",
+128,non_melanoma,0.08,False,12,1,"DG,RS,ST,BWV,PIG,PN,VS",
+128,non_melanoma,0.1,False,12,1,"DG,RS,ST,BWV,PIG,PN,VS",
+128,non_melanoma,0.12,False,9,1,"DG,RS,ST,BWV,PIG,PN,VS",
+128,non_melanoma,0.14,False,8,1,"DG,RS,ST,BWV,PIG,PN,VS",
+128,non_melanoma,0.16,False,8,1,"DG,RS,ST,BWV,PIG,PN,VS",
+128,non_melanoma,0.18,False,6,3,"DG,RS,ST | BWV | PIG,PN,VS",0.18374091154612854
+128,non_melanoma,0.2,True,4,4,"DG,RS | ST | BWV | PIG,PN,VS",0.20513135993372422
+128,non_melanoma,0.25,False,2,5,"DG,RS | ST | BWV | PIG | PN,VS",0.22958125684635924
+128,non_melanoma,0.3,False,1,6,"DG,RS | ST | BWV | PIG | PN | VS",0.23990207831896254
+256,melanoma,0.02,False,19,1,"DG,BWV,PN,ST,PIG,RS,VS",
+256,melanoma,0.04,False,18,1,"DG,BWV,PN,ST,PIG,RS,VS",
+256,melanoma,0.06,False,16,1,"DG,BWV,PN,ST,PIG,RS,VS",
+256,melanoma,0.08,False,13,1,"DG,BWV,PN,ST,PIG,RS,VS",
+256,melanoma,0.1,False,11,1,"DG,BWV,PN,ST,PIG,RS,VS",
+256,melanoma,0.12,False,9,1,"DG,BWV,PN,ST,PIG,RS,VS",
+256,melanoma,0.14,False,8,1,"DG,BWV,PN,ST,PIG,RS,VS",
+256,melanoma,0.16,False,8,1,"DG,BWV,PN,ST,PIG,RS,VS",
+256,melanoma,0.18,False,5,2,"DG,BWV | PN,ST,PIG,RS,VS",0.23620948964069668
+256,melanoma,0.2,False,2,5,"DG,BWV | PN | ST | PIG | RS,VS",0.24162433456796129
+256,melanoma,0.25,False,2,5,"DG,BWV | PN | ST | PIG | RS,VS",0.24162433456796129
+256,melanoma,0.3,True,2,5,"DG,BWV | PN | ST | PIG | RS,VS",0.24162433456796129
+256,non_melanoma,0.02,False,21,1,"RS,ST,PIG,DG,PN,BWV,VS",
+256,non_melanoma,0.04,False,21,1,"RS,ST,PIG,DG,PN,BWV,VS",
+256,non_melanoma,0.06,False,19,1,"RS,ST,PIG,DG,PN,BWV,VS",
+256,non_melanoma,0.08,False,17,1,"RS,ST,PIG,DG,PN,BWV,VS",
+256,non_melanoma,0.1,False,15,1,"RS,ST,PIG,DG,PN,BWV,VS",
+256,non_melanoma,0.12,False,10,1,"RS,ST,PIG,DG,PN,BWV,VS",
+256,non_melanoma,0.14,False,8,1,"RS,ST,PIG,DG,PN,BWV,VS",
+256,non_melanoma,0.16,False,6,2,"RS,ST,PIG | DG,PN,BWV,VS",0.3116621454380582
+256,non_melanoma,0.18,True,4,3,"RS,ST | PIG | DG,PN,BWV,VS",0.3315771172288284
+256,non_melanoma,0.2,False,3,4,"RS,ST | PIG | DG | PN,BWV,VS",0.3355320804830705
+256,non_melanoma,0.25,False,0,7,RS | ST | PIG | DG | PN | BWV | VS,0.3500492182404401
+256,non_melanoma,0.3,False,0,7,RS | ST | PIG | DG | PN | BWV | VS,0.3500492182404401
+512,melanoma,0.02,False,19,1,"DG,BWV,PN,PIG,ST,VS,RS",
+512,melanoma,0.04,False,19,1,"DG,BWV,PN,PIG,ST,VS,RS",
+512,melanoma,0.06,False,18,1,"DG,BWV,PN,PIG,ST,VS,RS",
+512,melanoma,0.08,False,16,1,"DG,BWV,PN,PIG,ST,VS,RS",
+512,melanoma,0.1,False,15,1,"DG,BWV,PN,PIG,ST,VS,RS",
+512,melanoma,0.12,False,12,1,"DG,BWV,PN,PIG,ST,VS,RS",
+512,melanoma,0.14,False,10,1,"DG,BWV,PN,PIG,ST,VS,RS",
+512,melanoma,0.16,False,7,1,"DG,BWV,PN,PIG,ST,VS,RS",
+512,melanoma,0.18,False,3,4,"DG,BWV | PN | PIG | ST,VS,RS",0.29646529335133603
+512,melanoma,0.2,False,2,5,"DG,BWV | PN | PIG | ST | VS,RS",0.3061890629129695
+512,melanoma,0.25,True,0,7,DG | BWV | PN | PIG | ST | VS | RS,0.3113060164963945
+512,melanoma,0.3,False,0,7,DG | BWV | PN | PIG | ST | VS | RS,0.3113060164963945
+512,non_melanoma,0.02,False,21,1,"DG,PIG,ST,RS,PN,VS,BWV",
+512,non_melanoma,0.04,False,21,1,"DG,PIG,ST,RS,PN,VS,BWV",
+512,non_melanoma,0.06,False,19,1,"DG,PIG,ST,RS,PN,VS,BWV",
+512,non_melanoma,0.08,False,18,1,"DG,PIG,ST,RS,PN,VS,BWV",
+512,non_melanoma,0.1,False,15,1,"DG,PIG,ST,RS,PN,VS,BWV",
+512,non_melanoma,0.12,False,13,1,"DG,PIG,ST,RS,PN,VS,BWV",
+512,non_melanoma,0.14,False,9,1,"DG,PIG,ST,RS,PN,VS,BWV",
+512,non_melanoma,0.16,False,6,2,"DG,PIG,ST,RS | PN,VS,BWV",0.30855216940568986
+512,non_melanoma,0.18,False,2,5,"DG,PIG | ST | RS | PN | VS,BWV",0.3476890352833324
+512,non_melanoma,0.2,True,2,5,"DG,PIG | ST | RS | PN | VS,BWV",0.3476890352833324
+512,non_melanoma,0.25,False,0,7,DG | PIG | ST | RS | PN | VS | BWV,0.3549352134152315
+512,non_melanoma,0.3,False,0,7,DG | PIG | ST | RS | PN | VS | BWV,0.3549352134152315

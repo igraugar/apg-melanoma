@@ -1,0 +1,106 @@
+seed,population,above,below,share,direct,covering
+64,melanoma,pigment network,pigmentation,0.7540904550287441,True,True
+64,melanoma,pigment network,regression structures,0.7738013368746087,True,True
+64,melanoma,streaks,pigmentation,0.7695746982053483,True,True
+64,melanoma,streaks,regression structures,0.7579436399505167,True,True
+64,melanoma,dots and globules,pigment network,0.8415040795286353,True,True
+64,melanoma,dots and globules,streaks,0.8169347854726565,True,True
+64,melanoma,dots and globules,pigmentation,0.9564451281851134,True,False
+64,melanoma,dots and globules,regression structures,0.9530669372917426,True,False
+64,melanoma,dots and globules,blue-whitish veil,0.7639297762570493,True,True
+64,melanoma,dots and globules,vascular structures,0.9428319059029159,True,True
+64,non_melanoma,streaks,pigment network,0.7758205151189218,True,True
+64,non_melanoma,streaks,regression structures,0.6958966710543854,True,True
+64,non_melanoma,streaks,vascular structures,0.7819612313969788,True,False
+64,non_melanoma,pigmentation,pigment network,0.8043791022087609,True,True
+64,non_melanoma,pigmentation,regression structures,0.7357439511764997,True,True
+64,non_melanoma,pigmentation,vascular structures,0.8098253789797587,True,False
+64,non_melanoma,regression structures,vascular structures,0.6442148540016145,True,True
+64,non_melanoma,dots and globules,pigment network,0.7375923540815373,True,True
+64,non_melanoma,dots and globules,regression structures,0.6418592327594197,True,True
+64,non_melanoma,dots and globules,vascular structures,0.762665056554481,True,False
+64,non_melanoma,blue-whitish veil,pigment network,0.7615379919442796,True,True
+64,non_melanoma,blue-whitish veil,regression structures,0.683086064146005,True,True
+64,non_melanoma,blue-whitish veil,vascular structures,0.7824995236427672,True,False
+42,melanoma,pigment network,regression structures,0.8554498003000649,True,True
+42,melanoma,pigment network,vascular structures,0.8466193219617775,True,True
+42,melanoma,streaks,regression structures,0.759736559032304,True,True
+42,melanoma,streaks,vascular structures,0.7708178320019989,True,True
+42,melanoma,dots and globules,streaks,0.8575489857230569,True,True
+42,melanoma,dots and globules,pigmentation,0.9031978718867562,True,True
+42,melanoma,dots and globules,regression structures,0.9434371726473452,True,False
+42,melanoma,dots and globules,blue-whitish veil,0.7786480973613877,True,True
+42,melanoma,dots and globules,vascular structures,0.9554853937918717,True,False
+42,non_melanoma,regression structures,vascular structures,0.6651292891727553,True,True
+42,non_melanoma,dots and globules,pigment network,0.6474759046487273,True,True
+42,non_melanoma,dots and globules,vascular structures,0.6861118598010167,True,True
+42,non_melanoma,blue-whitish veil,pigment network,0.8649805080947433,True,False
+42,non_melanoma,blue-whitish veil,streaks,0.8318636145303979,True,True
+42,non_melanoma,blue-whitish veil,pigmentation,0.8386397572824155,True,True
+42,non_melanoma,blue-whitish veil,regression structures,0.8024154182000196,True,True
+42,non_melanoma,blue-whitish veil,dots and globules,0.7887497759603248,True,True
+42,non_melanoma,blue-whitish veil,vascular structures,0.8758594342033962,True,False
+128,melanoma,pigment network,regression structures,0.9005575291459249,True,True
+128,melanoma,pigment network,vascular structures,0.878653525888512,True,True
+128,melanoma,streaks,regression structures,0.777239331474834,True,True
+128,melanoma,streaks,vascular structures,0.7867074471296585,True,True
+128,melanoma,pigmentation,regression structures,0.7985070828429056,True,True
+128,melanoma,pigmentation,vascular structures,0.847472909577324,True,True
+128,melanoma,dots and globules,regression structures,0.862077577212718,True,True
+128,melanoma,dots and globules,vascular structures,0.898834122166488,True,True
+128,non_melanoma,streaks,pigment network,0.8209031438703014,True,False
+128,non_melanoma,streaks,pigmentation,0.796347356672218,True,False
+128,non_melanoma,streaks,blue-whitish veil,0.6489295935773685,True,True
+128,non_melanoma,streaks,vascular structures,0.8647592059696959,True,False
+128,non_melanoma,regression structures,pigment network,0.8687159351449316,True,False
+128,non_melanoma,regression structures,pigmentation,0.8742320127951717,True,False
+128,non_melanoma,regression structures,blue-whitish veil,0.7448382248205864,True,True
+128,non_melanoma,regression structures,vascular structures,0.8915308699288639,True,False
+128,non_melanoma,dots and globules,pigment network,0.9275796771866417,True,False
+128,non_melanoma,dots and globules,streaks,0.6566781759437648,True,True
+128,non_melanoma,dots and globules,pigmentation,0.9097124376231923,True,False
+128,non_melanoma,dots and globules,blue-whitish veil,0.7927659566490324,True,False
+128,non_melanoma,dots and globules,vascular structures,0.9530392465456382,True,False
+128,non_melanoma,blue-whitish veil,pigment network,0.7135911928012222,True,True
+128,non_melanoma,blue-whitish veil,pigmentation,0.6788658150545336,True,True
+128,non_melanoma,blue-whitish veil,vascular structures,0.7580756581686734,True,True
+256,melanoma,pigment network,regression structures,0.8962723416945381,True,True
+256,melanoma,pigment network,vascular structures,0.7572286180735844,True,True
+256,melanoma,streaks,regression structures,0.8274487321216237,True,True
+256,melanoma,streaks,vascular structures,0.8762792946727315,True,True
+256,melanoma,pigmentation,vascular structures,0.7697230416646097,True,True
+256,melanoma,dots and globules,streaks,0.7924279064608524,True,True
+256,melanoma,dots and globules,pigmentation,0.8872526748986824,True,True
+256,melanoma,dots and globules,regression structures,0.9177796912423757,True,False
+256,melanoma,dots and globules,vascular structures,0.9437916415928501,True,False
+256,melanoma,blue-whitish veil,regression structures,0.7644600906336726,True,True
+256,melanoma,blue-whitish veil,vascular structures,0.7706714620341306,True,True
+256,non_melanoma,pigment network,vascular structures,0.6436296044448638,True,True
+256,non_melanoma,streaks,pigment network,0.6913989674578669,True,True
+256,non_melanoma,streaks,blue-whitish veil,0.7295395367972825,True,True
+256,non_melanoma,streaks,vascular structures,0.7362441437889878,True,False
+256,non_melanoma,pigmentation,pigment network,0.6764783287414347,True,True
+256,non_melanoma,pigmentation,blue-whitish veil,0.7126186454022863,True,True
+256,non_melanoma,pigmentation,vascular structures,0.6997636534404702,True,False
+256,non_melanoma,regression structures,pigment network,0.7608140976526369,True,True
+256,non_melanoma,regression structures,blue-whitish veil,0.7037793446794168,True,True
+256,non_melanoma,regression structures,vascular structures,0.7448141858594799,True,False
+256,non_melanoma,dots and globules,pigment network,0.6470660644442813,True,True
+256,non_melanoma,dots and globules,vascular structures,0.6870308782433858,True,False
+512,melanoma,dots and globules,pigment network,0.8227528201996429,True,True
+512,melanoma,dots and globules,streaks,0.8670709581418916,True,True
+512,melanoma,dots and globules,pigmentation,0.8458469394159941,True,True
+512,melanoma,dots and globules,regression structures,0.931907747092253,True,True
+512,melanoma,dots and globules,vascular structures,0.9205027091946616,True,True
+512,melanoma,blue-whitish veil,regression structures,0.758111403577101,True,True
+512,non_melanoma,streaks,blue-whitish veil,0.7126738447212498,True,True
+512,non_melanoma,streaks,vascular structures,0.6898419317542172,True,True
+512,non_melanoma,pigmentation,blue-whitish veil,0.7180722752194959,True,True
+512,non_melanoma,pigmentation,vascular structures,0.6954485521260083,True,True
+512,non_melanoma,regression structures,blue-whitish veil,0.695270622130645,True,True
+512,non_melanoma,regression structures,vascular structures,0.6768989276146696,True,True
+512,non_melanoma,dots and globules,pigment network,0.7270764486101884,True,True
+512,non_melanoma,dots and globules,streaks,0.6505364857679304,True,True
+512,non_melanoma,dots and globules,regression structures,0.6623218777044572,True,True
+512,non_melanoma,dots and globules,blue-whitish veil,0.8224044559367065,True,False
+512,non_melanoma,dots and globules,vascular structures,0.8056694395864675,True,False

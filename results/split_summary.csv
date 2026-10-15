@@ -1,0 +1,4 @@
+split,images,melanoma,non_melanoma,patients
+train,346,90,256,346
+valid,171,61,110,171
+test,324,101,223,324

@@ -1,0 +1,61 @@
+seed,population,statistic,mean,median,boot_lo,boot_hi_or_p
+64,melanoma,ambiguity A_x of the local law,0.3290945949678052,0.31071981914840935,0.3160928326135945,0.3433868594368139
+64,melanoma,normalized entropy of the local law,0.6560901608402882,0.6498415628156298,0.6466494262397227,0.6655565059072766
+64,melanoma,probability of the single SOFI ranking under its own law,0.02513470190700947,0.023672671886604064,0.023008468407859507,0.027242036852607832
+64,melanoma,expected Kendall distance between the single ranking and the law (of 21 pairs),3.5034605892544026,3.4305021315498614,3.4115910827998617,3.5979305133814945
+64,melanoma,Spearman correlation of A_x with the logit of the explained class,0.44572607134672676,,,0.00013943926345205967
+64,melanoma,Spearman correlation of A_x with the best SOFI score (sd units),-0.35085173019631805,,,0.0033524645341180552
+64,non_melanoma,ambiguity A_x of the local law,0.5806145548990028,0.5811734735441099,0.5668263401967322,0.5948651000504567
+64,non_melanoma,normalized entropy of the local law,0.811798493412394,0.8191267876845192,0.8039230546045292,0.8196981769918782
+64,non_melanoma,probability of the single SOFI ranking under its own law,0.007885159041236971,0.007047519797779049,0.00720398050638367,0.008581653089417732
+64,non_melanoma,expected Kendall distance between the single ranking and the law (of 21 pairs),5.383357385893679,5.386594992716418,5.26789534176736,5.499435488489769
+64,non_melanoma,Spearman correlation of A_x with the logit of the explained class,0.34449614872912415,,,2.5107706558279095e-07
+64,non_melanoma,Spearman correlation of A_x with the best SOFI score (sd units),0.2670500721218766,,,7.932030937276465e-05
+42,melanoma,ambiguity A_x of the local law,0.3511830585894861,0.3566301880350561,0.33569982652145985,0.36549028909662346
+42,melanoma,normalized entropy of the local law,0.6731051611339105,0.6827719487174478,0.6603185175281243,0.685377809296574
+42,melanoma,probability of the single SOFI ranking under its own law,0.026823846636626444,0.022268278860742594,0.02393176881791738,0.029780458153414912
+42,melanoma,expected Kendall distance between the single ranking and the law (of 21 pairs),3.5454091965300427,3.6244036987321904,3.422946998610408,3.6775289310619845
+42,melanoma,Spearman correlation of A_x with the logit of the explained class,0.545815937194111,,,1.7794214019275302e-06
+42,melanoma,Spearman correlation of A_x with the best SOFI score (sd units),-0.11780099482610518,,,0.3424132751560861
+42,non_melanoma,ambiguity A_x of the local law,0.6110837232402404,0.6371013519248709,0.5983721606922875,0.6231844438644375
+42,non_melanoma,normalized entropy of the local law,0.8221441627152873,0.8411862286143399,0.814396231414718,0.8289778650988416
+42,non_melanoma,probability of the single SOFI ranking under its own law,0.0064352666306552965,0.004785977868734139,0.005808945285622785,0.007136450484880632
+42,non_melanoma,expected Kendall distance between the single ranking and the law (of 21 pairs),5.665149610557384,5.7488930153574085,5.557176293133605,5.770139284791895
+42,non_melanoma,Spearman correlation of A_x with the logit of the explained class,0.5305827105642809,,,6.428378312968327e-16
+42,non_melanoma,Spearman correlation of A_x with the best SOFI score (sd units),-0.3754420590092922,,,4.3017495541113654e-08
+128,melanoma,ambiguity A_x of the local law,0.39785011765123285,0.3779826398673538,0.37374655296937004,0.4237794536656182
+128,melanoma,normalized entropy of the local law,0.6945127108684519,0.6861816222705166,0.6767305302778207,0.7129845068238286
+128,melanoma,probability of the single SOFI ranking under its own law,0.018248252408470826,0.015372265004341988,0.015283235967489957,0.021264289854668394
+128,melanoma,expected Kendall distance between the single ranking and the law (of 21 pairs),4.224287262502171,4.118825307467426,3.9976360999600575,4.4467562709919415
+128,melanoma,Spearman correlation of A_x with the logit of the explained class,0.923946016219897,,,2.3812133523566478e-31
+128,melanoma,Spearman correlation of A_x with the best SOFI score (sd units),-0.7745000928620069,,,9.136310406290555e-16
+128,non_melanoma,ambiguity A_x of the local law,0.40832788020223837,0.40896657839154726,0.39477243344513846,0.42165401387292123
+128,non_melanoma,normalized entropy of the local law,0.7099269872584032,0.7181421687248679,0.7005432548450794,0.7197096100159699
+128,non_melanoma,probability of the single SOFI ranking under its own law,0.01762954545924488,0.0148131429667211,0.016118754210179696,0.019136770597361987
+128,non_melanoma,expected Kendall distance between the single ranking and the law (of 21 pairs),4.107395403461998,4.084835517101418,3.9984192325521,4.223843125010971
+128,non_melanoma,Spearman correlation of A_x with the logit of the explained class,0.454421620318853,,,1.563521494918492e-11
+128,non_melanoma,Spearman correlation of A_x with the best SOFI score (sd units),-0.012396111161533843,,,0.862043287168282
+256,melanoma,ambiguity A_x of the local law,0.1662243424099342,0.15796947364343672,0.15320874072259055,0.18076535000269725
+256,melanoma,normalized entropy of the local law,0.45956822334558983,0.44968253393540425,0.44395084216136066,0.47684263199762444
+256,melanoma,probability of the single SOFI ranking under its own law,0.09959285080783556,0.08585494668272589,0.08924628125453864,0.11172728245179521
+256,melanoma,expected Kendall distance between the single ranking and the law (of 21 pairs),2.1938438688082336,2.1857872896526254,2.0805786429997357,2.3183705305298474
+256,melanoma,Spearman correlation of A_x with the logit of the explained class,0.6513126218044251,,,5.618938669871532e-09
+256,melanoma,Spearman correlation of A_x with the best SOFI score (sd units),-0.6482402843058582,,,6.992033993059622e-09
+256,non_melanoma,ambiguity A_x of the local law,0.34012758472662535,0.3519674022568028,0.3239131655051275,0.35608302401816283
+256,non_melanoma,normalized entropy of the local law,0.6225527930028285,0.6440395928005875,0.6082753717621661,0.635583020415363
+256,non_melanoma,probability of the single SOFI ranking under its own law,0.04307158235422891,0.031684973556711904,0.038936033831645143,0.04722578716430946
+256,non_melanoma,expected Kendall distance between the single ranking and the law (of 21 pairs),3.5795294076279296,3.6207201688352413,3.446061292808794,3.7085763258309528
+256,non_melanoma,Spearman correlation of A_x with the logit of the explained class,0.7241818413345218,,,5.9179541469726535e-34
+256,non_melanoma,Spearman correlation of A_x with the best SOFI score (sd units),0.4358503193861626,,,9.999000869824554e-11
+512,melanoma,ambiguity A_x of the local law,0.49793197293355135,0.4934042282203052,0.48065235812909696,0.5160604023954463
+512,melanoma,normalized entropy of the local law,0.7704958890315685,0.7705996982935227,0.7601341968945858,0.7824696010081137
+512,melanoma,probability of the single SOFI ranking under its own law,0.010512852096035346,0.010744413404987907,0.009492278637122306,0.01142482404487068
+512,melanoma,expected Kendall distance between the single ranking and the law (of 21 pairs),4.649241097503793,4.546310956566302,4.510576057624399,4.79329337061311
+512,melanoma,Spearman correlation of A_x with the logit of the explained class,0.5871311212079489,,,3.406817240489452e-07
+512,melanoma,Spearman correlation of A_x with the best SOFI score (sd units),-0.4455918123823948,,,0.0002244322938458965
+512,non_melanoma,ambiguity A_x of the local law,0.6618010012530695,0.6769465883058443,0.6500270194332526,0.6738163895449133
+512,non_melanoma,normalized entropy of the local law,0.8597614031901153,0.8708158391511355,0.8538155304170086,0.865651965778112
+512,non_melanoma,probability of the single SOFI ranking under its own law,0.004488764225502722,0.0037500664322492098,0.004174932337411649,0.004819670047176385
+512,non_melanoma,expected Kendall distance between the single ranking and the law (of 21 pairs),5.886138933963262,5.9215858623950135,5.800328010866116,5.980316870041412
+512,non_melanoma,Spearman correlation of A_x with the logit of the explained class,0.48725943163084556,,,3.684300692228217e-14
+512,non_melanoma,Spearman correlation of A_x with the best SOFI score (sd units),0.1561059621353292,,,0.022355048339161347

@@ -1,0 +1,11 @@
+seed,population,majority_3cycles,cycles,copeland_wins,kemeny_order,kemeny_n_optima,kemeny_equals_borda,pairs_where_borda_contradicts_majority,expected_kendall_distance_to_consensus,pairs_with_image_level_disagreement_over_25pct
+64,melanoma,0,none,"DG=6.0, ST=5.0, PN=4.0, BWV=3.0, VS=2.0, RS=1.0, PIG=0.0",DG > ST > PN > BWV > VS > RS > PIG,1,True,0,6.138991485039698,8
+64,non_melanoma,0,none,"PIG=6.0, ST=5.0, BWV=4.0, DG=3.0, RS=2.0, PN=1.0, VS=0.0",PIG > ST > BWV > DG > RS > PN > VS,1,True,0,6.894261444389841,7
+42,melanoma,0,none,"DG=6.0, PN=5.0, BWV=4.0, ST=3.0, PIG=2.0, RS=1.0, VS=0.0",DG > PN > BWV > ST > PIG > RS > VS,1,False,1,5.800184602965873,7
+42,non_melanoma,0,none,"BWV=6.0, DG=5.0, RS=4.0, ST=3.0, PIG=2.0, PN=1.0, VS=0.0",BWV > DG > RS > ST > PIG > PN > VS,1,True,0,7.166454999500449,9
+128,melanoma,0,none,"PN=6.0, DG=5.0, PIG=4.0, ST=3.0, BWV=2.0, RS=1.0, VS=0.0",PN > DG > PIG > ST > BWV > RS > VS,1,True,0,6.536309991212261,10
+128,non_melanoma,0,none,"DG=6.0, RS=5.0, ST=4.0, BWV=3.0, PIG=2.0, PN=1.0, VS=0.0",DG > RS > ST > BWV > PIG > PN > VS,1,True,0,5.280059983175624,5
+256,melanoma,0,none,"DG=6.0, BWV=5.0, PN=4.0, ST=3.0, PIG=2.0, RS=1.0, VS=0.0",DG > BWV > PN > ST > PIG > RS > VS,1,True,0,5.457012462197033,9
+256,non_melanoma,0,none,"RS=6.0, ST=5.0, PIG=4.0, DG=3.0, PN=2.0, BWV=1.0, VS=0.0",RS > ST > PIG > DG > PN > BWV > VS,1,True,0,7.351033583049242,14
+512,melanoma,0,none,"DG=6.0, BWV=5.0, PN=4.0, PIG=3.0, ST=2.0, VS=1.0, RS=0.0",DG > BWV > PN > PIG > ST > VS > RS,1,True,0,6.537426346424283,7
+512,non_melanoma,0,none,"DG=6.0, PIG=5.0, ST=4.0, RS=3.0, PN=2.0, VS=1.0, BWV=0.0",DG > PIG > ST > RS > PN > VS > BWV,1,True,0,7.453639481719862,9

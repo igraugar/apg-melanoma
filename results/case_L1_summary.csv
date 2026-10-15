@@ -1,0 +1,71 @@
+seed,population,statistic,mean,median,boot_lo,boot_hi
+64,melanoma,best SOFI score in null standard deviations (0 = random ordering),2.3794675694374186,2.378611170206986,2.3684158460026326,2.3903163419988043
+64,melanoma,share of images with a unique SOFI optimum,1.0,1.0,1.0,1.0
+64,melanoma,R2 of the additive fit of the removal game,0.9529273378344565,0.9526130063125111,0.9505559606996302,0.9549494401220072
+64,melanoma,correlation of the SOFI score with its Weyl-linear form over all orderings,0.9987717676191219,0.9989185520073296,0.9986467604477531,0.9988816458973769
+64,melanoma,share of images whose SOFI optimum sorts the removal effects,0.6764705882352942,1.0,0.5735294117647058,0.7941176470588235
+64,melanoma,Kendall tau between the SOFI optimum and the removal-effect order,0.9635854341736694,1.0,0.9495798319327731,0.9775910364145657
+64,melanoma,distinct removal-effect orders among the images (Theorem 4 iii),30.0,,,
+64,non_melanoma,best SOFI score in null standard deviations (0 = random ordering),2.3770451977835165,2.3881437487616073,2.3632917118690924,2.3905503121344163
+64,non_melanoma,share of images with a unique SOFI optimum,1.0,1.0,1.0,1.0
+64,non_melanoma,R2 of the additive fit of the removal game,0.9008446566070705,0.9074425102140684,0.8967383505828393,0.9048520378533996
+64,non_melanoma,correlation of the SOFI score with its Weyl-linear form over all orderings,0.9949233428117048,0.9950497725316454,0.9945017495296025,0.9953341868573771
+64,non_melanoma,share of images whose SOFI optimum sorts the removal effects,0.29107981220657275,0.0,0.2300469483568075,0.352112676056338
+64,non_melanoma,Kendall tau between the SOFI optimum and the removal-effect order,0.8734630002235636,0.9047619047619048,0.8586966241895819,0.8873239436619719
+64,non_melanoma,distinct removal-effect orders among the images (Theorem 4 iii),76.0,,,
+42,melanoma,best SOFI score in null standard deviations (0 = random ordering),2.434301636576883,2.4427138489815152,2.4208021569688243,2.448020654001041
+42,melanoma,share of images with a unique SOFI optimum,1.0,1.0,1.0,1.0
+42,melanoma,R2 of the additive fit of the removal game,0.9461794977884708,0.9469439471832777,0.9428405121684655,0.9496385693318706
+42,melanoma,correlation of the SOFI score with its Weyl-linear form over all orderings,0.9986709244644021,0.9986409426389495,0.998569242562452,0.9987709662379037
+42,melanoma,share of images whose SOFI optimum sorts the removal effects,0.7014925373134329,1.0,0.5970149253731343,0.8059701492537313
+42,melanoma,Kendall tau between the SOFI optimum and the removal-effect order,0.9715707178393747,1.0,0.9616204690831557,0.9815209665955934
+42,melanoma,distinct removal-effect orders among the images (Theorem 4 iii),28.0,,,
+42,non_melanoma,best SOFI score in null standard deviations (0 = random ordering),2.2492771066604877,2.2245220131601884,2.2310873617769573,2.268701914739822
+42,non_melanoma,share of images with a unique SOFI optimum,1.0,1.0,1.0,1.0
+42,non_melanoma,R2 of the additive fit of the removal game,0.9070235847589864,0.9094485112667259,0.9037854932312513,0.9103238852047798
+42,non_melanoma,correlation of the SOFI score with its Weyl-linear form over all orderings,0.9966221663402718,0.9967681414972157,0.9963990046048121,0.9968374496717324
+42,non_melanoma,share of images whose SOFI optimum sorts the removal effects,0.305,0.0,0.25,0.37
+42,non_melanoma,Kendall tau between the SOFI optimum and the removal-effect order,0.9057142857142858,0.9047619047619048,0.8942857142857145,0.9171428571428573
+42,non_melanoma,distinct removal-effect orders among the images (Theorem 4 iii),65.0,,,
+128,melanoma,best SOFI score in null standard deviations (0 = random ordering),2.2703974049211917,2.308350186211363,2.243311225364781,2.2970673558290473
+128,melanoma,share of images with a unique SOFI optimum,1.0,1.0,1.0,1.0
+128,melanoma,R2 of the additive fit of the removal game,0.924631846963389,0.9260956503403774,0.9197375527621089,0.9299273568371742
+128,melanoma,correlation of the SOFI score with its Weyl-linear form over all orderings,0.9964707462076322,0.9973606108938353,0.9959634117490346,0.9969695147038065
+128,melanoma,share of images whose SOFI optimum sorts the removal effects,0.3150684931506849,0.0,0.2054794520547945,0.4246575342465753
+128,melanoma,Kendall tau between the SOFI optimum and the removal-effect order,0.8773646444879322,0.9047619047619048,0.8486627527723418,0.903457273320287
+128,melanoma,distinct removal-effect orders among the images (Theorem 4 iii),33.0,,,
+128,non_melanoma,best SOFI score in null standard deviations (0 = random ordering),2.3718521711733116,2.373865847975098,2.360827636239239,2.3819496467731107
+128,non_melanoma,share of images with a unique SOFI optimum,1.0,1.0,1.0,1.0
+128,non_melanoma,R2 of the additive fit of the removal game,0.9434090378215582,0.9448104406923488,0.9409700040824988,0.9456951747076449
+128,non_melanoma,correlation of the SOFI score with its Weyl-linear form over all orderings,0.9969769835824631,0.9973020052492879,0.9966864219125093,0.9972401115758167
+128,non_melanoma,share of images whose SOFI optimum sorts the removal effects,0.4271356783919598,0.0,0.35678391959798994,0.507537688442211
+128,non_melanoma,Kendall tau between the SOFI optimum and the removal-effect order,0.9119406556592486,0.9047619047619048,0.8990189040440297,0.9243838238813114
+128,non_melanoma,distinct removal-effect orders among the images (Theorem 4 iii),60.0,,,
+256,melanoma,best SOFI score in null standard deviations (0 = random ordering),2.3482665273116208,2.358316593906575,2.329573992111337,2.3655479676661275
+256,melanoma,share of images with a unique SOFI optimum,1.0,1.0,1.0,1.0
+256,melanoma,R2 of the additive fit of the removal game,0.9254957415977507,0.9295748861197431,0.921160868817746,0.9296862672750544
+256,melanoma,correlation of the SOFI score with its Weyl-linear form over all orderings,0.9971766521711254,0.9978563954666916,0.9966091142934552,0.9976585665881137
+256,melanoma,share of images whose SOFI optimum sorts the removal effects,0.421875,0.0,0.296875,0.546875
+256,melanoma,Kendall tau between the SOFI optimum and the removal-effect order,0.9315476190476191,0.9047619047619048,0.9166666666666667,0.9479166666666667
+256,melanoma,distinct removal-effect orders among the images (Theorem 4 iii),35.0,,,
+256,non_melanoma,best SOFI score in null standard deviations (0 = random ordering),2.4258819626248296,2.3904508668920847,2.3949915563820485,2.460185427222434
+256,non_melanoma,share of images with a unique SOFI optimum,1.0,1.0,1.0,1.0
+256,non_melanoma,R2 of the additive fit of the removal game,0.8964218934360514,0.8958198103549814,0.892359335874118,0.9003249682473361
+256,non_melanoma,correlation of the SOFI score with its Weyl-linear form over all orderings,0.9811740323560959,0.9828087875689381,0.9791457607099976,0.9830861426051742
+256,non_melanoma,share of images whose SOFI optimum sorts the removal effects,0.12437810945273632,0.0,0.07960199004975124,0.1691542288557214
+256,non_melanoma,Kendall tau between the SOFI optimum and the removal-effect order,0.8284766642975598,0.9047619047619048,0.812366737739872,0.8469675432361999
+256,non_melanoma,distinct removal-effect orders among the images (Theorem 4 iii),72.0,,,
+512,melanoma,best SOFI score in null standard deviations (0 = random ordering),2.361620907649292,2.3559050818824443,2.3496490322420507,2.37459677494131
+512,melanoma,share of images with a unique SOFI optimum,1.0,1.0,1.0,1.0
+512,melanoma,R2 of the additive fit of the removal game,0.956280534109022,0.960478187015052,0.9534467320417477,0.9590422223261028
+512,melanoma,correlation of the SOFI score with its Weyl-linear form over all orderings,0.9987304308940685,0.9987842176614278,0.9986096731560776,0.9988362419668421
+512,melanoma,share of images whose SOFI optimum sorts the removal effects,0.34375,0.0,0.234375,0.453125
+512,melanoma,Kendall tau between the SOFI optimum and the removal-effect order,0.9241071428571429,0.9047619047619048,0.9092261904761906,0.9389880952380952
+512,melanoma,distinct removal-effect orders among the images (Theorem 4 iii),37.0,,,
+512,non_melanoma,best SOFI score in null standard deviations (0 = random ordering),2.372226299222042,2.3946099555372973,2.3616562415250653,2.3830878760038514
+512,non_melanoma,share of images with a unique SOFI optimum,1.0,1.0,1.0,1.0
+512,non_melanoma,R2 of the additive fit of the removal game,0.9149566791556062,0.9235321918885966,0.9105827325588273,0.9191126811344946
+512,non_melanoma,correlation of the SOFI score with its Weyl-linear form over all orderings,0.9969203276265981,0.9974738145458619,0.9966917948701163,0.9971448657091658
+512,non_melanoma,share of images whose SOFI optimum sorts the removal effects,0.4672897196261682,0.0,0.40186915887850466,0.5327102803738317
+512,non_melanoma,Kendall tau between the SOFI optimum and the removal-effect order,0.9176680017801513,0.9047619047619048,0.903415665331553,0.9310191366266133
+512,non_melanoma,distinct removal-effect orders among the images (Theorem 4 iii),83.0,,,

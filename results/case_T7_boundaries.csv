@@ -1,0 +1,47 @@
+seed,population,tiering,boundary,pairs,crossing_mass,crossing_share
+64,melanoma,selected face,after tier 1,6,0.7252873873618897,0.12088123122698162
+64,melanoma,selected face,after tier 2,12,2.875690618487793,0.23964088487398275
+64,melanoma,selected face,after tier 3,12,2.814695864036663,0.2345579886697219
+64,melanoma,"seven-point checklist, major before minor",after tier 1,12,6.310053887897612,0.5258378239914677
+64,non_melanoma,selected face,after tier 1,12,3.466630138990944,0.288885844915912
+64,non_melanoma,selected face,after tier 2,12,3.0271329269362064,0.2522610772446839
+64,non_melanoma,"seven-point checklist, major before minor",after tier 1,12,7.77776576820825,0.6481471473506876
+42,melanoma,selected face,after tier 1,10,1.8958840661153316,0.18958840661153314
+42,melanoma,selected face,after tier 2,12,2.7770847263070695,0.2314237271922558
+42,melanoma,selected face,after tier 3,12,2.7647847525046565,0.23039872937538805
+42,melanoma,selected face,after tier 4,10,2.209397467938255,0.2209397467938255
+42,melanoma,"seven-point checklist, major before minor",after tier 1,12,6.463776905921755,0.5386480754934796
+42,non_melanoma,selected face,after tier 1,6,0.9974914917287038,0.16624858195478395
+42,non_melanoma,selected face,after tier 2,12,3.6083325177454513,0.3006943764787876
+42,non_melanoma,selected face,after tier 3,12,3.9208473830719024,0.32673728192265855
+42,non_melanoma,selected face,after tier 4,10,3.3633243808185784,0.33633243808185787
+42,non_melanoma,"seven-point checklist, major before minor",after tier 1,12,5.634167110910127,0.46951392590917723
+128,melanoma,selected face,after tier 1,10,2.7930644615659372,0.2793064461565937
+128,melanoma,selected face,after tier 2,12,3.1158227283150586,0.2596518940262549
+128,melanoma,selected face,after tier 3,12,2.8485289506079927,0.23737741255066605
+128,melanoma,selected face,after tier 4,10,1.9050855446729922,0.19050855446729922
+128,melanoma,"seven-point checklist, major before minor",after tier 1,12,6.479018337817854,0.5399181948181545
+128,non_melanoma,selected face,after tier 1,10,1.768705084987325,0.17687050849873248
+128,non_melanoma,selected face,after tier 2,12,1.9066463392163566,0.15888719493469639
+128,non_melanoma,selected face,after tier 3,12,1.9426474482389153,0.16188728735324295
+128,non_melanoma,"seven-point checklist, major before minor",after tier 1,12,8.959385277431013,0.7466154397859177
+256,melanoma,selected face,after tier 1,10,2.362094896406967,0.23620948964069668
+256,melanoma,selected face,after tier 2,12,2.6954209120986348,0.2246184093415529
+256,melanoma,selected face,after tier 3,12,2.2969580915445458,0.19141317429537882
+256,melanoma,selected face,after tier 4,10,1.7865574807427478,0.17865574807427478
+256,melanoma,"seven-point checklist, major before minor",after tier 1,12,6.187822562014955,0.515651880167913
+256,non_melanoma,selected face,after tier 1,10,3.33101449462265,0.333101449462265
+256,non_melanoma,selected face,after tier 2,12,3.739945745256698,0.3116621454380582
+256,non_melanoma,"seven-point checklist, major before minor",after tier 1,12,8.393485176811263,0.6994570980676053
+512,melanoma,selected face,after tier 1,6,0.9055181223526882,0.15091968705878137
+512,melanoma,selected face,after tier 2,10,2.2499055418690643,0.22499055418690644
+512,melanoma,selected face,after tier 3,12,3.1795734582863426,0.2649644548571952
+512,melanoma,selected face,after tier 4,12,3.512588625069217,0.2927157187557681
+512,melanoma,selected face,after tier 5,10,2.8867462723283883,0.2886746272328388
+512,melanoma,selected face,after tier 6,6,1.75302009312901,0.2921700155215017
+512,melanoma,"seven-point checklist, major before minor",after tier 1,12,6.140329156734276,0.511694096394523
+512,non_melanoma,selected face,after tier 1,10,3.2708404537255524,0.32708404537255525
+512,non_melanoma,selected face,after tier 2,12,3.9287755898985695,0.3273979658248808
+512,non_melanoma,selected face,after tier 3,12,3.7026260328682783,0.30855216940568986
+512,non_melanoma,selected face,after tier 4,10,2.9711418759757193,0.2971141875975719
+512,non_melanoma,"seven-point checklist, major before minor",after tier 1,12,8.297373967131723,0.6914478305943103

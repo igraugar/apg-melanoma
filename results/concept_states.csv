@@ -1,0 +1,8 @@
+attribute,n_states,states
+pigment_network,3,absent; atypical; typical
+streaks,3,absent; irregular; regular
+pigmentation,5,absent; diffuse irregular; diffuse regular; localized irregular; localized regular
+regression_structures,4,absent; blue areas; combinations; white areas
+dots_and_globules,3,absent; irregular; regular
+blue_whitish_veil,2,absent; present
+vascular_structures,8,absent; arborizing; comma; dotted; hairpin; linear irregular; within regression; wreath

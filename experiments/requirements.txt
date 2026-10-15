@@ -1,0 +1,8 @@
+# The notebook runs on Google Colab, whose runtime provides these packages.
+numpy
+pandas
+pillow
+scikit-learn
+scipy
+torch
+torchvision

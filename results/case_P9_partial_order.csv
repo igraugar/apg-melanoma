@@ -1,0 +1,11 @@
+seed,population,certified_pairs_direct,certified_pairs_after_closure,added_by_closure,share_of_pairs_ordered,strict_partial_order,no_majority_3cycle,covering_pairs,levels
+64,melanoma,10,10,0,0.47619047619047616,True,True,PN > PIG; PN > RS; ST > PIG; ST > RS; DG > PN; DG > ST; DG > BWV; DG > VS,"DG | PN,ST,BWV,VS | PIG,RS"
+64,non_melanoma,13,13,0,0.6190476190476191,True,True,ST > PN; ST > RS; PIG > PN; PIG > RS; RS > VS; DG > PN; DG > RS; BWV > PN; BWV > RS,"ST,PIG,DG,BWV | PN,RS | VS"
+42,melanoma,9,9,0,0.42857142857142855,True,True,PN > RS; PN > VS; ST > RS; ST > VS; DG > ST; DG > PIG; DG > BWV,"PN,DG | ST,PIG,BWV | RS,VS"
+42,non_melanoma,9,9,0,0.42857142857142855,True,True,RS > VS; DG > PN; DG > VS; BWV > ST; BWV > PIG; BWV > RS; BWV > DG,"BWV | ST,PIG,RS,DG | PN,VS"
+128,melanoma,8,8,0,0.38095238095238093,True,True,PN > RS; PN > VS; ST > RS; ST > VS; PIG > RS; PIG > VS; DG > RS; DG > VS,"PN,ST,PIG,DG,BWV | RS,VS"
+128,non_melanoma,16,16,0,0.7619047619047619,True,True,ST > BWV; RS > BWV; DG > ST; BWV > PN; BWV > PIG; BWV > VS,"RS,DG | ST | BWV | PN,PIG,VS"
+256,melanoma,11,11,0,0.5238095238095238,True,True,PN > RS; PN > VS; ST > RS; ST > VS; PIG > VS; DG > ST; DG > PIG; BWV > RS; BWV > VS,"PN,DG,BWV | ST,PIG | RS,VS"
+256,non_melanoma,12,12,0,0.5714285714285714,True,True,PN > VS; ST > PN; ST > BWV; PIG > PN; PIG > BWV; RS > PN; RS > BWV; DG > PN,"ST,PIG,RS,DG | PN,BWV | VS"
+512,melanoma,6,6,0,0.2857142857142857,True,True,DG > PN; DG > ST; DG > PIG; DG > RS; DG > VS; BWV > RS,"DG,BWV | PN,ST,PIG,RS,VS"
+512,non_melanoma,11,11,0,0.5238095238095238,True,True,ST > BWV; ST > VS; PIG > BWV; PIG > VS; RS > BWV; RS > VS; DG > PN; DG > ST; DG > RS,"PIG,DG | PN,ST,RS | BWV,VS"

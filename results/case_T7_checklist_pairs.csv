@@ -1,0 +1,121 @@
+seed,population,major,minor,share_minor_above_major
+64,melanoma,vascular structures,dots and globules,0.9428319059029159
+64,melanoma,pigment network,dots and globules,0.8415040795286353
+64,melanoma,blue-whitish veil,dots and globules,0.7639297762570493
+64,melanoma,vascular structures,streaks,0.7064831500821284
+64,melanoma,blue-whitish veil,streaks,0.5345458330353607
+64,melanoma,pigment network,streaks,0.5137526099760845
+64,melanoma,vascular structures,pigmentation,0.4125647081466064
+64,melanoma,vascular structures,regression structures,0.4071237023316029
+64,melanoma,blue-whitish veil,regression structures,0.3653657138749154
+64,melanoma,blue-whitish veil,pigmentation,0.34984420066566485
+64,melanoma,pigment network,pigmentation,0.24590954497125633
+64,melanoma,pigment network,regression structures,0.22619866312539194
+64,non_melanoma,vascular structures,pigmentation,0.8098253789797587
+64,non_melanoma,pigment network,pigmentation,0.8043791022087609
+64,non_melanoma,vascular structures,streaks,0.7819612313969788
+64,non_melanoma,pigment network,streaks,0.7758205151189218
+64,non_melanoma,vascular structures,dots and globules,0.762665056554481
+64,non_melanoma,pigment network,dots and globules,0.7375923540815373
+64,non_melanoma,vascular structures,regression structures,0.6442148540016145
+64,non_melanoma,pigment network,regression structures,0.6037750410851311
+64,non_melanoma,blue-whitish veil,pigmentation,0.5698634297657471
+64,non_melanoma,blue-whitish veil,streaks,0.5134973259187596
+64,non_melanoma,blue-whitish veil,dots and globules,0.4572575432425637
+64,non_melanoma,blue-whitish veil,regression structures,0.31691393585399524
+42,melanoma,vascular structures,dots and globules,0.9554853937918717
+42,melanoma,blue-whitish veil,dots and globules,0.7786480973613877
+42,melanoma,vascular structures,streaks,0.7708178320019989
+42,melanoma,pigment network,dots and globules,0.7312857957346431
+42,melanoma,vascular structures,pigmentation,0.6796985395181411
+42,melanoma,vascular structures,regression structures,0.5027890528679682
+42,melanoma,blue-whitish veil,streaks,0.49619172880330636
+42,melanoma,blue-whitish veil,pigmentation,0.42923682325505474
+42,melanoma,pigment network,streaks,0.34454334005579784
+42,melanoma,blue-whitish veil,regression structures,0.34415275995075845
+42,melanoma,pigment network,pigmentation,0.28637734288089123
+42,melanoma,pigment network,regression structures,0.14455019969993518
+42,non_melanoma,vascular structures,dots and globules,0.6861118598010167
+42,non_melanoma,vascular structures,regression structures,0.6651292891727553
+42,non_melanoma,pigment network,dots and globules,0.6474759046487273
+42,non_melanoma,pigment network,regression structures,0.6260945499098531
+42,non_melanoma,vascular structures,streaks,0.5955968301950766
+42,non_melanoma,vascular structures,pigmentation,0.5757171451463753
+42,non_melanoma,pigment network,streaks,0.5608582481368136
+42,non_melanoma,pigment network,pigmentation,0.5388518498726664
+42,non_melanoma,blue-whitish veil,dots and globules,0.21125022403967517
+42,non_melanoma,blue-whitish veil,regression structures,0.19758458179998048
+42,non_melanoma,blue-whitish veil,streaks,0.16813638546960247
+42,non_melanoma,blue-whitish veil,pigmentation,0.16136024271758428
+128,melanoma,vascular structures,dots and globules,0.898834122166488
+128,melanoma,vascular structures,pigmentation,0.847472909577324
+128,melanoma,vascular structures,streaks,0.7867074471296585
+128,melanoma,blue-whitish veil,dots and globules,0.625543138257642
+128,melanoma,blue-whitish veil,pigmentation,0.6060410714233853
+128,melanoma,blue-whitish veil,streaks,0.5254207518799971
+128,melanoma,vascular structures,regression structures,0.5003480928742223
+128,melanoma,pigment network,dots and globules,0.48493036046822224
+128,melanoma,pigment network,pigmentation,0.42958946536194603
+128,melanoma,pigment network,streaks,0.349160065703963
+128,melanoma,blue-whitish veil,regression structures,0.32552844212092796
+128,melanoma,pigment network,regression structures,0.09944247085407507
+128,non_melanoma,vascular structures,dots and globules,0.9530392465456382
+128,non_melanoma,pigment network,dots and globules,0.9275796771866417
+128,non_melanoma,vascular structures,regression structures,0.8915308699288639
+128,non_melanoma,pigment network,regression structures,0.8687159351449316
+128,non_melanoma,vascular structures,streaks,0.8647592059696959
+128,non_melanoma,pigment network,streaks,0.8209031438703014
+128,non_melanoma,blue-whitish veil,dots and globules,0.7927659566490324
+128,non_melanoma,blue-whitish veil,regression structures,0.7448382248205864
+128,non_melanoma,blue-whitish veil,streaks,0.6489295935773685
+128,non_melanoma,vascular structures,pigmentation,0.5920427436175053
+128,non_melanoma,pigment network,pigmentation,0.5331464951749803
+128,non_melanoma,blue-whitish veil,pigmentation,0.3211341849454666
+256,melanoma,vascular structures,dots and globules,0.9437916415928501
+256,melanoma,vascular structures,streaks,0.8762792946727315
+256,melanoma,vascular structures,pigmentation,0.7697230416646097
+256,melanoma,pigment network,dots and globules,0.699605783089423
+256,melanoma,blue-whitish veil,dots and globules,0.6214188724707117
+256,melanoma,vascular structures,regression structures,0.5124310221235191
+256,melanoma,pigment network,streaks,0.39906015532738476
+256,melanoma,blue-whitish veil,streaks,0.38465473431437053
+256,melanoma,pigment network,pigmentation,0.3498947493899649
+256,melanoma,blue-whitish veil,pigmentation,0.2916956996976019
+256,melanoma,blue-whitish veil,regression structures,0.23553990936632704
+256,melanoma,pigment network,regression structures,0.10372765830546161
+256,non_melanoma,pigment network,regression structures,0.7608140976526369
+256,non_melanoma,vascular structures,regression structures,0.7448141858594799
+256,non_melanoma,vascular structures,streaks,0.7362441437889878
+256,non_melanoma,blue-whitish veil,streaks,0.7295395367972825
+256,non_melanoma,blue-whitish veil,pigmentation,0.7126186454022863
+256,non_melanoma,blue-whitish veil,regression structures,0.7037793446794168
+256,non_melanoma,vascular structures,pigmentation,0.6997636534404702
+256,non_melanoma,pigment network,streaks,0.6913989674578669
+256,non_melanoma,vascular structures,dots and globules,0.6870308782433858
+256,non_melanoma,pigment network,pigmentation,0.6764783287414347
+256,non_melanoma,pigment network,dots and globules,0.6470660644442813
+256,non_melanoma,blue-whitish veil,dots and globules,0.6039373303037336
+512,melanoma,vascular structures,dots and globules,0.9205027091946616
+512,melanoma,pigment network,dots and globules,0.8227528201996429
+512,melanoma,blue-whitish veil,dots and globules,0.706400703602869
+512,melanoma,vascular structures,pigmentation,0.5823571846777148
+512,melanoma,vascular structures,streaks,0.5805797882979644
+512,melanoma,pigment network,pigmentation,0.442914683637006
+512,melanoma,vascular structures,regression structures,0.4262348546807332
+512,melanoma,pigment network,streaks,0.4243765684675854
+512,melanoma,blue-whitish veil,streaks,0.350041897903314
+512,melanoma,blue-whitish veil,pigmentation,0.3492361975097243
+512,melanoma,pigment network,regression structures,0.29304315214016075
+512,melanoma,blue-whitish veil,regression structures,0.24188859642289923
+512,non_melanoma,blue-whitish veil,dots and globules,0.8224044559367065
+512,non_melanoma,vascular structures,dots and globules,0.8056694395864675
+512,non_melanoma,pigment network,dots and globules,0.7270764486101884
+512,non_melanoma,blue-whitish veil,pigmentation,0.7180722752194959
+512,non_melanoma,blue-whitish veil,streaks,0.7126738447212498
+512,non_melanoma,vascular structures,pigmentation,0.6954485521260083
+512,non_melanoma,blue-whitish veil,regression structures,0.695270622130645
+512,non_melanoma,vascular structures,streaks,0.6898419317542172
+512,non_melanoma,vascular structures,regression structures,0.6768989276146696
+512,non_melanoma,pigment network,pigmentation,0.595761464167333
+512,non_melanoma,pigment network,streaks,0.587258887255471
+512,non_melanoma,pigment network,regression structures,0.5709971180092697

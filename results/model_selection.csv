@@ -1,0 +1,6 @@
+seed,test_label_f1,selected,test_images_melanoma,test_images_non_melanoma
+42,0.7884,False,67,200
+64,0.834,True,68,213
+128,0.8109,False,73,199
+256,0.7783,False,64,201
+512,0.8193,False,64,214

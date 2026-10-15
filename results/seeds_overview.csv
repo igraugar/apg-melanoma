@@ -1,0 +1,6 @@
+seed,selected,test_f1,valid_f1,test_accuracy,test_auroc,test_melanoma_sensitivity,test_concept_accuracy,best_epoch,beta0,images_melanoma,tau_melanoma,images_non_melanoma,tau_non_melanoma
+42,False,0.7884,0.8274,0.8241,0.8832,0.6634,0.6852,15,3.0,67,0.2,200,0.18
+64,True,0.834,0.8028,0.8673,0.9173,0.6733,0.6931,16,3.0,68,0.2,213,0.18
+128,False,0.8109,0.8174,0.8395,0.8781,0.7228,0.6843,9,4.0,73,0.2,199,0.2
+256,False,0.7783,0.7933,0.8179,0.8864,0.6337,0.6764,8,10.0,64,0.3,201,0.18
+512,False,0.8193,0.7949,0.858,0.8863,0.6337,0.6949,17,2.0,64,0.25,214,0.2

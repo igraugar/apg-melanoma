@@ -1,0 +1,161 @@
+population,seed,selected,fit_on,method,description,ranking
+melanoma,64,True,test,borda_single,Borda count of the single SOFI rankings (mean position),DG > PN > ST > BWV > VS > PIG > RS
+melanoma,64,True,test,kemeny_single,Kemeny consensus of the single SOFI rankings,DG > BWV > PN > ST > VS > RS > PIG
+melanoma,64,True,test,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,DG > BWV > PN > ST > VS > RS > PIG
+melanoma,64,True,test,most_frequent_single,most frequent single SOFI ranking,DG > PN > ST > VS > RS > PIG > BWV
+melanoma,64,True,test,mean_shapley,concepts sorted by mean standardized Shapley value,DG > ST > PN > BWV > VS > PIG > RS
+melanoma,64,True,test,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",DG > ST > PN > BWV > VS > RS > PIG
+melanoma,64,True,test,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),DG > ST > PN > BWV > VS > RS > PIG
+melanoma,64,True,test,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,DG > ST > PN > BWV > VS > RS > PIG
+melanoma,64,True,valid,borda_single,Borda count of the single SOFI rankings (mean position),DG > ST > BWV > PN > VS > RS > PIG
+melanoma,64,True,valid,kemeny_single,Kemeny consensus of the single SOFI rankings,DG > BWV > ST > PN > VS > RS > PIG
+melanoma,64,True,valid,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,DG > BWV > ST > PN > VS > RS > PIG
+melanoma,64,True,valid,most_frequent_single,most frequent single SOFI ranking,DG > BWV > ST > PN > VS > RS > PIG
+melanoma,64,True,valid,mean_shapley,concepts sorted by mean standardized Shapley value,DG > BWV > ST > PN > VS > RS > PIG
+melanoma,64,True,valid,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",DG > BWV > ST > PN > VS > RS > PIG
+melanoma,64,True,valid,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),DG > BWV > ST > PN > VS > RS > PIG
+melanoma,64,True,valid,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,DG > ST > BWV > PN > VS > RS > PIG
+non_melanoma,64,True,test,borda_single,Borda count of the single SOFI rankings (mean position),PIG > BWV > ST > DG > RS > PN > VS
+non_melanoma,64,True,test,kemeny_single,Kemeny consensus of the single SOFI rankings,PIG > BWV > DG > ST > RS > PN > VS
+non_melanoma,64,True,test,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,PIG > BWV > ST > DG > RS > PN > VS
+non_melanoma,64,True,test,most_frequent_single,most frequent single SOFI ranking,DG > PIG > ST > BWV > PN > RS > VS
+non_melanoma,64,True,test,mean_shapley,concepts sorted by mean standardized Shapley value,PIG > ST > BWV > DG > RS > PN > VS
+non_melanoma,64,True,test,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",PIG > ST > BWV > DG > RS > PN > VS
+non_melanoma,64,True,test,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),PIG > ST > BWV > DG > RS > PN > VS
+non_melanoma,64,True,test,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,PIG > BWV > ST > DG > RS > PN > VS
+non_melanoma,64,True,valid,borda_single,Borda count of the single SOFI rankings (mean position),BWV > PIG > ST > DG > RS > PN > VS
+non_melanoma,64,True,valid,kemeny_single,Kemeny consensus of the single SOFI rankings,PIG > BWV > ST > DG > RS > PN > VS
+non_melanoma,64,True,valid,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,PIG > BWV > ST > DG > RS > PN > VS
+non_melanoma,64,True,valid,most_frequent_single,most frequent single SOFI ranking,DG > PIG > ST > BWV > PN > RS > VS
+non_melanoma,64,True,valid,mean_shapley,concepts sorted by mean standardized Shapley value,PIG > ST > BWV > DG > RS > PN > VS
+non_melanoma,64,True,valid,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",PIG > ST > BWV > DG > RS > PN > VS
+non_melanoma,64,True,valid,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),PIG > ST > BWV > DG > RS > PN > VS
+non_melanoma,64,True,valid,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,BWV > PIG > ST > DG > RS > PN > VS
+melanoma,42,False,test,borda_single,Borda count of the single SOFI rankings (mean position),DG > PN > ST > BWV > PIG > VS > RS
+melanoma,42,False,test,kemeny_single,Kemeny consensus of the single SOFI rankings,DG > PN > BWV > ST > PIG > VS > RS
+melanoma,42,False,test,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,DG > PN > BWV > ST > PIG > VS > RS
+melanoma,42,False,test,most_frequent_single,most frequent single SOFI ranking,DG > PN > BWV > ST > PIG > RS > VS
+melanoma,42,False,test,mean_shapley,concepts sorted by mean standardized Shapley value,DG > PN > ST > BWV > PIG > RS > VS
+melanoma,42,False,test,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",DG > PN > ST > BWV > PIG > RS > VS
+melanoma,42,False,test,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),DG > PN > BWV > ST > PIG > RS > VS
+melanoma,42,False,test,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,DG > PN > ST > BWV > PIG > RS > VS
+melanoma,42,False,valid,borda_single,Borda count of the single SOFI rankings (mean position),DG > PN > BWV > ST > PIG > VS > RS
+melanoma,42,False,valid,kemeny_single,Kemeny consensus of the single SOFI rankings,DG > PN > BWV > ST > PIG > VS > RS
+melanoma,42,False,valid,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,DG > PN > BWV > ST > PIG > VS > RS
+melanoma,42,False,valid,most_frequent_single,most frequent single SOFI ranking,DG > PN > BWV > ST > PIG > VS > RS
+melanoma,42,False,valid,mean_shapley,concepts sorted by mean standardized Shapley value,DG > BWV > PN > ST > PIG > RS > VS
+melanoma,42,False,valid,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",DG > BWV > PN > ST > PIG > RS > VS
+melanoma,42,False,valid,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),DG > BWV > PN > ST > PIG > RS > VS
+melanoma,42,False,valid,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,DG > BWV > PN > ST > PIG > RS > VS
+non_melanoma,42,False,test,borda_single,Borda count of the single SOFI rankings (mean position),BWV > DG > RS > ST > PIG > PN > VS
+non_melanoma,42,False,test,kemeny_single,Kemeny consensus of the single SOFI rankings,BWV > DG > RS > PIG > ST > PN > VS
+non_melanoma,42,False,test,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,BWV > DG > RS > ST > PIG > PN > VS
+non_melanoma,42,False,test,most_frequent_single,most frequent single SOFI ranking,BWV > RS > DG > PN > PIG > ST > VS
+non_melanoma,42,False,test,mean_shapley,concepts sorted by mean standardized Shapley value,BWV > DG > RS > ST > PIG > PN > VS
+non_melanoma,42,False,test,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",BWV > DG > RS > ST > PIG > PN > VS
+non_melanoma,42,False,test,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),BWV > DG > RS > ST > PIG > PN > VS
+non_melanoma,42,False,test,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,BWV > RS > DG > ST > PIG > PN > VS
+non_melanoma,42,False,valid,borda_single,Borda count of the single SOFI rankings (mean position),BWV > DG > RS > ST > PN > PIG > VS
+non_melanoma,42,False,valid,kemeny_single,Kemeny consensus of the single SOFI rankings,BWV > RS > DG > ST > PN > PIG > VS
+non_melanoma,42,False,valid,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,BWV > RS > DG > ST > PN > PIG > VS
+non_melanoma,42,False,valid,most_frequent_single,most frequent single SOFI ranking,BWV > RS > DG > PN > PIG > ST > VS
+non_melanoma,42,False,valid,mean_shapley,concepts sorted by mean standardized Shapley value,BWV > DG > RS > ST > PIG > PN > VS
+non_melanoma,42,False,valid,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",BWV > DG > RS > ST > PIG > PN > VS
+non_melanoma,42,False,valid,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),BWV > DG > RS > ST > PN > PIG > VS
+non_melanoma,42,False,valid,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,BWV > RS > DG > ST > PIG > PN > VS
+melanoma,128,False,test,borda_single,Borda count of the single SOFI rankings (mean position),PN > DG > PIG > BWV > ST > RS > VS
+melanoma,128,False,test,kemeny_single,Kemeny consensus of the single SOFI rankings,PN > DG > PIG > BWV > ST > RS > VS
+melanoma,128,False,test,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,PN > DG > PIG > BWV > ST > RS > VS
+melanoma,128,False,test,most_frequent_single,most frequent single SOFI ranking,PN > BWV > PIG > DG > ST > RS > VS
+melanoma,128,False,test,mean_shapley,concepts sorted by mean standardized Shapley value,PN > DG > PIG > ST > BWV > RS > VS
+melanoma,128,False,test,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",PN > DG > PIG > ST > BWV > RS > VS
+melanoma,128,False,test,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),PN > DG > PIG > ST > BWV > RS > VS
+melanoma,128,False,test,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,DG > PN > PIG > ST > BWV > VS > RS
+melanoma,128,False,valid,borda_single,Borda count of the single SOFI rankings (mean position),DG > PN > PIG > BWV > ST > VS > RS
+melanoma,128,False,valid,kemeny_single,Kemeny consensus of the single SOFI rankings,DG > PN > PIG > BWV > ST > RS > VS
+melanoma,128,False,valid,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,DG > PN > PIG > BWV > ST > RS > VS
+melanoma,128,False,valid,most_frequent_single,most frequent single SOFI ranking,PN > BWV > PIG > DG > ST > RS > VS
+melanoma,128,False,valid,mean_shapley,concepts sorted by mean standardized Shapley value,DG > PN > PIG > ST > BWV > RS > VS
+melanoma,128,False,valid,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",DG > PN > PIG > BWV > ST > RS > VS
+melanoma,128,False,valid,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),DG > PN > PIG > BWV > ST > VS > RS
+melanoma,128,False,valid,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,DG > PN > PIG > BWV > ST > VS > RS
+non_melanoma,128,False,test,borda_single,Borda count of the single SOFI rankings (mean position),DG > RS > ST > BWV > PIG > PN > VS
+non_melanoma,128,False,test,kemeny_single,Kemeny consensus of the single SOFI rankings,RS > DG > ST > BWV > PIG > PN > VS
+non_melanoma,128,False,test,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,RS > DG > ST > BWV > PIG > PN > VS
+non_melanoma,128,False,test,most_frequent_single,most frequent single SOFI ranking,RS > DG > ST > BWV > PN > PIG > VS
+non_melanoma,128,False,test,mean_shapley,concepts sorted by mean standardized Shapley value,DG > RS > ST > BWV > PIG > PN > VS
+non_melanoma,128,False,test,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",DG > RS > ST > BWV > PIG > PN > VS
+non_melanoma,128,False,test,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),DG > RS > ST > BWV > PIG > PN > VS
+non_melanoma,128,False,test,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,DG > RS > ST > BWV > PIG > PN > VS
+non_melanoma,128,False,valid,borda_single,Borda count of the single SOFI rankings (mean position),DG > RS > ST > BWV > PIG > PN > VS
+non_melanoma,128,False,valid,kemeny_single,Kemeny consensus of the single SOFI rankings,RS > DG > ST > BWV > PIG > PN > VS
+non_melanoma,128,False,valid,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,RS > DG > ST > BWV > PIG > PN > VS
+non_melanoma,128,False,valid,most_frequent_single,most frequent single SOFI ranking,ST > DG > RS > BWV > PIG > PN > VS
+non_melanoma,128,False,valid,mean_shapley,concepts sorted by mean standardized Shapley value,DG > RS > ST > BWV > PIG > PN > VS
+non_melanoma,128,False,valid,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",DG > RS > ST > BWV > PIG > PN > VS
+non_melanoma,128,False,valid,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),DG > RS > ST > BWV > PIG > PN > VS
+non_melanoma,128,False,valid,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,DG > RS > ST > BWV > PIG > PN > VS
+melanoma,256,False,test,borda_single,Borda count of the single SOFI rankings (mean position),DG > BWV > PN > ST > PIG > VS > RS
+melanoma,256,False,test,kemeny_single,Kemeny consensus of the single SOFI rankings,DG > BWV > PN > ST > PIG > RS > VS
+melanoma,256,False,test,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,DG > BWV > PN > ST > PIG > RS > VS
+melanoma,256,False,test,most_frequent_single,most frequent single SOFI ranking,DG > BWV > PN > ST > PIG > RS > VS
+melanoma,256,False,test,mean_shapley,concepts sorted by mean standardized Shapley value,DG > ST > BWV > PN > PIG > RS > VS
+melanoma,256,False,test,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",DG > BWV > PN > ST > PIG > RS > VS
+melanoma,256,False,test,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),DG > BWV > PN > ST > PIG > RS > VS
+melanoma,256,False,test,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,DG > PN > ST > BWV > PIG > RS > VS
+melanoma,256,False,valid,borda_single,Borda count of the single SOFI rankings (mean position),DG > BWV > PN > ST > PIG > RS > VS
+melanoma,256,False,valid,kemeny_single,Kemeny consensus of the single SOFI rankings,DG > BWV > PN > ST > PIG > VS > RS
+melanoma,256,False,valid,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,DG > BWV > PN > ST > PIG > RS > VS
+melanoma,256,False,valid,most_frequent_single,most frequent single SOFI ranking,PN > DG > BWV > ST > RS > PIG > VS
+melanoma,256,False,valid,mean_shapley,concepts sorted by mean standardized Shapley value,DG > BWV > ST > PN > PIG > RS > VS
+melanoma,256,False,valid,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",DG > BWV > PN > ST > PIG > RS > VS
+melanoma,256,False,valid,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),DG > BWV > PN > ST > PIG > VS > RS
+melanoma,256,False,valid,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,DG > PN > BWV > ST > PIG > VS > RS
+non_melanoma,256,False,test,borda_single,Borda count of the single SOFI rankings (mean position),RS > ST > PIG > DG > BWV > PN > VS
+non_melanoma,256,False,test,kemeny_single,Kemeny consensus of the single SOFI rankings,RS > ST > PIG > DG > BWV > PN > VS
+non_melanoma,256,False,test,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,RS > ST > PIG > DG > BWV > PN > VS
+non_melanoma,256,False,test,most_frequent_single,most frequent single SOFI ranking,RS > ST > PIG > BWV > DG > PN > VS
+non_melanoma,256,False,test,mean_shapley,concepts sorted by mean standardized Shapley value,RS > ST > PIG > DG > PN > BWV > VS
+non_melanoma,256,False,test,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",RS > ST > PIG > DG > PN > BWV > VS
+non_melanoma,256,False,test,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),RS > ST > PIG > DG > PN > BWV > VS
+non_melanoma,256,False,test,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,RS > ST > PIG > BWV > DG > PN > VS
+non_melanoma,256,False,valid,borda_single,Borda count of the single SOFI rankings (mean position),RS > ST > DG > PIG > BWV > PN > VS
+non_melanoma,256,False,valid,kemeny_single,Kemeny consensus of the single SOFI rankings,RS > ST > PIG > DG > BWV > PN > VS
+non_melanoma,256,False,valid,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,RS > ST > PIG > DG > BWV > PN > VS
+non_melanoma,256,False,valid,most_frequent_single,most frequent single SOFI ranking,ST > PIG > BWV > RS > DG > PN > VS
+non_melanoma,256,False,valid,mean_shapley,concepts sorted by mean standardized Shapley value,RS > ST > DG > PIG > PN > BWV > VS
+non_melanoma,256,False,valid,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",RS > ST > DG > PIG > PN > BWV > VS
+non_melanoma,256,False,valid,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),RS > ST > PIG > DG > PN > BWV > VS
+non_melanoma,256,False,valid,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,RS > ST > BWV > PIG > DG > PN > VS
+melanoma,512,False,test,borda_single,Borda count of the single SOFI rankings (mean position),DG > BWV > PN > PIG > ST > VS > RS
+melanoma,512,False,test,kemeny_single,Kemeny consensus of the single SOFI rankings,DG > BWV > PN > PIG > ST > VS > RS
+melanoma,512,False,test,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,DG > BWV > PN > PIG > ST > VS > RS
+melanoma,512,False,test,most_frequent_single,most frequent single SOFI ranking,DG > BWV > PN > PIG > ST > RS > VS
+melanoma,512,False,test,mean_shapley,concepts sorted by mean standardized Shapley value,DG > BWV > PN > ST > PIG > VS > RS
+melanoma,512,False,test,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",DG > BWV > PN > PIG > ST > VS > RS
+melanoma,512,False,test,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),DG > BWV > PN > PIG > ST > VS > RS
+melanoma,512,False,test,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,DG > BWV > PN > ST > PIG > VS > RS
+melanoma,512,False,valid,borda_single,Borda count of the single SOFI rankings (mean position),DG > BWV > PN > PIG > ST > VS > RS
+melanoma,512,False,valid,kemeny_single,Kemeny consensus of the single SOFI rankings,DG > BWV > PN > PIG > ST > VS > RS
+melanoma,512,False,valid,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,DG > BWV > PN > PIG > ST > VS > RS
+melanoma,512,False,valid,most_frequent_single,most frequent single SOFI ranking,DG > BWV > PN > PIG > ST > VS > RS
+melanoma,512,False,valid,mean_shapley,concepts sorted by mean standardized Shapley value,DG > BWV > PN > ST > PIG > VS > RS
+melanoma,512,False,valid,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",DG > BWV > PN > PIG > ST > VS > RS
+melanoma,512,False,valid,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),DG > BWV > PN > PIG > ST > VS > RS
+melanoma,512,False,valid,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,DG > BWV > PN > ST > PIG > VS > RS
+non_melanoma,512,False,test,borda_single,Borda count of the single SOFI rankings (mean position),DG > PIG > ST > RS > PN > BWV > VS
+non_melanoma,512,False,test,kemeny_single,Kemeny consensus of the single SOFI rankings,DG > PIG > RS > ST > PN > BWV > VS
+non_melanoma,512,False,test,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,DG > PIG > ST > RS > PN > BWV > VS
+non_melanoma,512,False,test,most_frequent_single,most frequent single SOFI ranking,DG > PN > RS > PIG > ST > BWV > VS
+non_melanoma,512,False,test,mean_shapley,concepts sorted by mean standardized Shapley value,DG > PIG > ST > RS > PN > VS > BWV
+non_melanoma,512,False,test,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",DG > PIG > ST > RS > PN > VS > BWV
+non_melanoma,512,False,test,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),DG > PIG > ST > RS > PN > VS > BWV
+non_melanoma,512,False,test,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,DG > PIG > ST > RS > PN > VS > BWV
+non_melanoma,512,False,valid,borda_single,Borda count of the single SOFI rankings (mean position),DG > ST > PIG > RS > PN > BWV > VS
+non_melanoma,512,False,valid,kemeny_single,Kemeny consensus of the single SOFI rankings,DG > PIG > ST > RS > PN > BWV > VS
+non_melanoma,512,False,valid,copeland_single,Copeland count of pairwise wins of the single SOFI rankings,DG > PIG > ST > RS > PN > BWV > VS
+non_melanoma,512,False,valid,most_frequent_single,most frequent single SOFI ranking,DG > PN > RS > PIG > ST > BWV > VS
+non_melanoma,512,False,valid,mean_shapley,concepts sorted by mean standardized Shapley value,DG > ST > PIG > RS > PN > VS > BWV
+non_melanoma,512,False,valid,apg_borda_law,"Borda consensus of the Gibbs ranking laws (APG consensus, Theorem 3 iv)",DG > ST > PIG > RS > PN > VS > BWV
+non_melanoma,512,False,valid,apg_kemeny_law,Kemeny order of the pooled pairwise shares (Theorem 4 ii),DG > ST > PIG > RS > PN > VS > BWV
+non_melanoma,512,False,valid,best_fixed_ranking,ranking with the largest mean standardized degradation over the fitting images,DG > ST > PIG > RS > PN > VS > BWV
